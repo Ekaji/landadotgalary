@@ -109,7 +109,7 @@ const GalleryComp: React.FC<GalleryCompProps> = ({ filteredImage }) => {
   };
 
   return (
-    <div className="min-h-screen bg-neutral-50 px-4 py-8 sm:px-8 lg:px-16">
+    <div className="min-h-screen bg-neu tral-50 px-4 py-8 sm:px-8 lg:px-16">
       <LayoutGroup>
         {renderMasonryGrid()}
 
