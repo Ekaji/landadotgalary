@@ -1,6 +1,6 @@
 import React from 'react'
-import  images  from '../../data/images';
-import GalleryComp from '../gallery.Component/gallery.component';
+import  images  from '../../data/images.js';
+import GalleryComp from '../gallery.Component/gallery.component.js';
 
 
 const HeroComp = () => {

@@ -2,7 +2,7 @@
 
 const images =  [
    
-    {name: "b1.jpeg", cartigory: "baby", url: "/imagesContainer/b1.webp", id: "01"},
+    {name: "b1.jpeg", cartigory: "baby", url: "/imagesContainer/b1.webp", id: "01", aspectRatio: 1.5 },
     {name: "b2.jpeg", cartigory: "baby", url: "/imagesContainer/b2.webp", id: "02"},
     {name: "b3.jpeg", cartigory: "baby", url: "/imagesContainer/b3.webp", id: "03"},
     {name: "b4.jpeg", cartigory: "baby", url: "/imagesContainer/b4.webp", id: "04"},
